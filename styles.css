@@ -1,1 +1,7 @@
 /* your code */
+table {
+	border-radius:20px;
+}
+thead{
+	border-radius:20px;
+}
